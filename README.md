@@ -15,12 +15,15 @@ Utilities for gulp plugins
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/gulp-util-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/gulp-util-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/gulp-util-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/gulp-util-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gulp-util/badges/version.svg)](https://anaconda.org/conda-forge/gulp-util)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gulp-util/badges/downloads.svg)](https://anaconda.org/conda-forge/gulp-util)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-gulp--util-green.svg)](https://anaconda.org/conda-forge/gulp-util) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/gulp-util.svg)](https://anaconda.org/conda-forge/gulp-util) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/gulp-util.svg)](https://anaconda.org/conda-forge/gulp-util) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/gulp-util.svg)](https://anaconda.org/conda-forge/gulp-util) |
 
 Installing gulp-util
 ====================
